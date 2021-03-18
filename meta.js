@@ -6,14 +6,13 @@ module.exports = {
             message: 'Project Name',
         },
         description: {
-            type: 'String',
-            required: false,
-            message: '',
-            default: 'My Awesome Project'
+            type: 'string',
+            required: true,
+            message: 'My Awesome Project'
         },
         author: {
             type: 'string',
-            message: 'Asorasoft'
+            message: 'Jonh Doe'
         }
     },
 
