@@ -17,5 +17,5 @@ module.exports = {
         }
     },
 
-    compleleteMessage: 'The project has been created!'
+    completeMessage: 'The project has been created!'
 }
