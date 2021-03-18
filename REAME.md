@@ -1,5 +1,5 @@
 Create new Vue Template for Team
-________________________________
+--------------------------------
 
 When I first started using Vue, I was blown away how easy it was to use the CLI. I was more surprised to find out how easy it is to create a re-usable Vue project using the Vue CLI. Here’s how:
 
