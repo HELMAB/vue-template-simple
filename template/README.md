@@ -5,5 +5,8 @@ _______
 ## Development
 
 ```bash
-vue init 
+vue init HELMAB/vue-template-simple project
+cd project
+npm install
+npm run start
 ```
