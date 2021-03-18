@@ -1,4 +1,4 @@
-moudule.exports = {
+module.exports = {
     promtps: {
         name: {
             type: 'string',
